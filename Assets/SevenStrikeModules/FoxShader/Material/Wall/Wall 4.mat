@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Wall 4
+  m_Shader: {fileID: -6465566751694194690, guid: 2392604b73960514193b451feeea7d9e,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _BLE_SPACE_WORLDSPACE
+  - _GR_GRADIENTSPACE_WORLDSPACE
+  - _SC_SCANNERSPACE_WORLDSPACE
+  - _SF_SPACE_WORLDSPACE
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ble_MetallicTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ble_RoughnessTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ble_TextureBlend:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ble_TextureMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dis_Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dis_fw_Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dt_Pattern:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _eg_AlphaTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _fa_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _oc_OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sc_Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sc_Pattern:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sf_Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sf_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_A:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_B:
+        m_Texture: {fileID: 2800000, guid: f1fbf4d6c4c7b314b9811d8a046d271f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_E:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_M:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_N:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_R:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ws_CustomMask:
+        m_Texture: {fileID: 2800000, guid: cc5d4645288a0134ba2d8941b38829ab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ws_Pattern:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _A_Intensity: 1
+    - _AlphaClip: 0
+    - _AlphaToMask: 0
+    - _AmbientOcclusion: 1
+    - _BLE_SPACE: 0
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 0
+    - _CastShadows: 1
+    - _Cull: 2
+    - _DisplaceMode: 0
+    - _DstBlend: 0
+    - _E_Intensity: 0
+    - _GR_GRADIENTSPACE: 0
+    - _M_Intensity: 0
+    - _N_Intensity: 1
+    - _OverlayMode: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _R_Intensity: 0
+    - _ReceiveShadows: 1
+    - _Roughness_End: 1
+    - _Roughness_Start: 0.15
+    - _SC_SCANNERSPACE: 0
+    - _SF_SPACE: 0
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _TextureRotate: 0
+    - _TextureScale: 1
+    - _UseBlender: 0
+    - _UseCustomMask: 0
+    - _UseDirty: 0
+    - _UseFrameAnim: 0
+    - _UseGradient: 0
+    - _UsePureMode: 0
+    - _UseScanner: 0
+    - _UseSurfaceFaders: 0
+    - _UseWorldScanner: 0
+    - _UvChannel: 0
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    - _ble_BlenderSize: 1
+    - _ble_MaskSize: 1
+    - _ble_Metallic: 0
+    - _ble_NoiseScale: 50
+    - _ble_Normal: 1
+    - _ble_Position: 0
+    - _ble_Roughness: 0
+    - _ble_UseTextureMask: 0
+    - _ble_UvChannel: 0
+    - _cc_Brightness: 1
+    - _cc_Contrast: 1
+    - _cc_Saturation: 1
+    - _cc_Saturations: 1
+    - _dis_Intensity: 0
+    - _dis_fw_FlowEnable: 0
+    - _dis_fw_Intensity: 1
+    - _dis_fw_MaskSize: 1
+    - _dis_fw_MaskSpeed: 1
+    - _dt_AoMode: 0
+    - _dt_AoRange_End: 1
+    - _dt_AoRange_Start: 0
+    - _dt_DirtyAlpha: 0
+    - _dt_DirtyRange_End: 1
+    - _dt_DirtyRange_Start: 0
+    - _dt_DirtyRotate: 0
+    - _dt_DirtySize: 50
+    - _dt_Intensity: 50
+    - _dt_PatternRotate: 0
+    - _dt_PatternSize: 0
+    - _dt_SupportEmissive: 0
+    - _dt_UvChannel: 0
+    - _eg_AlphaValue: 0
+    - _eg_Emissive: 1
+    - _eg_NoiseSize: 30
+    - _eg_Preview: 0
+    - _eg_UseTexture: 0
+    - _eg_UvChannel: 0
+    - _eg_Width: 0
+    - _fa_AddedMode: 0
+    - _fa_Backward: 0
+    - _fa_Intensity: 0
+    - _fa_Metallic: 0
+    - _fa_PlaySpeed: 0
+    - _fa_Roughness: 1
+    - _fa_SupportBaseColor: 0
+    - _fa_SupportEmissive: 0
+    - _fa_TextureRotate: 0
+    - _fa_TimeOffset: 0
+    - _fa_UvChannel: 0
+    - _gr_BaseColorAlpha: 0
+    - _gr_EmissiveAlpha: 0
+    - _gr_Gradient_End: 1
+    - _gr_Gradient_Start: 0
+    - _gr_Position: 0
+    - _gr_SupportBaseColor: 0
+    - _gr_SupportEmissive: 0
+    - _oc_Intensity: 1
+    - _oc_Step: 5
+    - _oc_UseParallaxMapping: 0
+    - _pu_Metallic: 0
+    - _pu_Roughness: 0.5
+    - _sc_Intensity: 0
+    - _sc_InvertMask: 0
+    - _sc_NoiseSize: 1
+    - _sc_ObjectUv: 1
+    - _sc_PatternSize: 1
+    - _sc_Position: 0
+    - _sc_RepeatMode: 0
+    - _sc_ScreenUv: 0
+    - _sc_SupportBaseColor: 0
+    - _sc_SupportEmissive: 0
+    - _sc_UvChannel: 0
+    - _sf_Alpha: 1
+    - _sf_NoiseSize: 50
+    - _sf_NormalIntensity: 1
+    - _sf_Position: 0
+    - _sf_TextureSize: 1
+    - _sf_UvChannel: 0
+    - _ws_ColorIntensity: 1
+    - _ws_PatternSize: 1
+    - _ws_Radius: 5
+    - _ws_Width: 5
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _E_Color: {r: 0, g: 0, b: 0, a: 1}
+    - _ble_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ble_Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _ble_NoiseRange: {r: 0, g: 1, b: 0, a: 0}
+    - _ble_NormalRange: {r: 0, g: 1, b: 0, a: 0}
+    - _dis_MaskRange: {r: 0, g: 1, b: 0, a: 0}
+    - _dis_fw_Range: {r: 0, g: 1, b: 0, a: 0}
+    - _dis_fw_Size: {r: 1, g: 1, b: 0, a: 0}
+    - _dis_fw_Speed: {r: 1, g: 1, b: 0, a: 0}
+    - _dt_DirtyColor: {r: 1, g: 1, b: 1, a: 1}
+    - _eg_AlphaRemap_In: {r: 0, g: 1, b: 0, a: 0}
+    - _eg_AlphaRemap_Out: {r: 0, g: 1, b: 0, a: 0}
+    - _eg_EmissiveColor: {r: 1, g: 0.1686275, b: 0, a: 1}
+    - _fa_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _fa_Size: {r: 1, g: 1, b: 0, a: 0}
+    - _gr_Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _gr_EndColor: {r: 1, g: 0, b: 0, a: 1}
+    - _gr_StartColor: {r: 1, g: 1, b: 1, a: 1}
+    - _pu_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _sc_Direction: {r: 0, g: 0, b: 0, a: 0}
+    - _sc_NoiseRange: {r: 0, g: 1, b: 0, a: 0}
+    - _sc_NoiseSpeed: {r: 0, g: 1, b: 0, a: 0}
+    - _sc_ScanColor: {r: 0, g: 1, b: 0.4588235, a: 1}
+    - _sf_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _sf_Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _sf_NoiseRange: {r: 0, g: 1, b: 0, a: 0}
+    - _sf_PositionRange: {r: 0, g: 1, b: 0, a: 0}
+    - _sf_RoughnessRange: {r: 0, g: 1, b: 0, a: 0}
+    - _ws_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ws_Position: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &4463081457356714118
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

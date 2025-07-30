@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Decal_Node
+  m_Shader: {fileID: -6465566751694194690, guid: b6196bb419608d943a842901115c7fdb,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Decal_Texture:
+        m_Texture: {fileID: 2800000, guid: 31199a1dbe801584f9d993fbb1bd32d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_A:
+        m_Texture: {fileID: 2800000, guid: dd69370094bb4fc4aa543dfe97c5e354, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_B:
+        m_Texture: {fileID: 2800000, guid: 715f6dd649491e34eb2bd3c37530928b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_E:
+        m_Texture: {fileID: 2800000, guid: 4fb58cd89a1fbd5469b942de6575c038, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_M:
+        m_Texture: {fileID: 2800000, guid: 87bebc4b77ad4d7418594abf1aa223f7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_N:
+        m_Texture: {fileID: 2800000, guid: 609dacfce679f034ca5d5b7525c42b7d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_O:
+        m_Texture: {fileID: 2800000, guid: 7ada5ba792d69444f8936798d139db49, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex_R:
+        m_Texture: {fileID: 2800000, guid: 0d8b90b97434282468a644e35ce9eda3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _A_Intensity: 1
+    - _AmbientOcclusion: 1
+    - _BaseColorOpacity: 1
+    - _DecalAngleFadeSupported: 1
+    - _DecalMeshBiasType: 1
+    - _DecalMeshDepthBias: 0
+    - _DecalMeshViewBias: 0
+    - _Decal_Emissive: 1
+    - _Decal_EmissiveIntensity: 83.03
+    - _Decal_EmissiveNoiseSize: 18.9
+    - _Decal_EmissiveNoiseSpeed_H: 1
+    - _Decal_EmissiveNoiseSpeed_V: 1
+    - _Decal_Enable: 0
+    - _Decal_Intensity: 1
+    - _Decal_Metallic: 0
+    - _Decal_OffsetCoverage: 0
+    - _Decal_Offset_Hor: 0
+    - _Decal_Offset_Ver: 0
+    - _Decal_Roughness: 1
+    - _Decal_Size: 9.57
+    - _Decal_TextureRange_Max: 1
+    - _Decal_TextureRange_Min: 0.46
+    - _Decal_UvMapping: 1
+    - _DrawOrder: 0
+    - _E_Intensity: 1
+    - _M_Intensity: 1
+    - _N_Intensity: 1
+    - _NormalOpacity: 1
+    - _O_Intensity: 1
+    - _R_Intensity: 1
+    - _R_Intensity_End: 1.2
+    - _R_Intensity_Start: 0.15
+    - _TextureScale: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Decal_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Decal_EmissiveColor: {r: 0, g: 0.21960784, b: 1.4980392, a: 1}
+    - _Decal_EmissiveNoiseRange: {r: 0, g: 1, b: 0, a: 0}
+    - _E_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &3394186905424936223
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

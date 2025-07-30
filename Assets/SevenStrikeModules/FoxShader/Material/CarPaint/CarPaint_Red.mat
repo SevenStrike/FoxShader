@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8509394698661946844
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarPaint_Red
+  m_Shader: {fileID: -6465566751694194690, guid: 057a9939f15b0eb4b84cb1d4aaa348eb,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _DS_SPACE_OBJECT
+  - _DT_SPACE_OBJECT
+  - _PT_SPACE_OBJECT
+  - _SPECULAR_SETUP
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FlakeTexture:
+        m_Texture: {fileID: 2800000, guid: d6cba910f9d3bf644902241a1b95ade9, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _ds_TextureMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dt_TextureMask:
+        m_Texture: {fileID: 2800000, guid: c813894b8304846419bb1e391b96bc21, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _AlphaClipIntensity: 0
+    - _AlphaIntensity: 1
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 0
+    - _CastShadows: 1
+    - _Cull: 2
+    - _DS_SPACE: 1
+    - _DT_SPACE: 1
+    - _DstBlend: 0
+    - _PT_SPACE: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 0
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    - _am_Fresnel_Max: 3
+    - _am_Fresnel_Min: 0
+    - _am_Fresnel_Power: 3
+    - _am_Intensity: 1
+    - _cc_Brightness: 1
+    - _cc_Contrast: 1
+    - _cc_Saturation: 1
+    - _ce_Fres_BaseIntensity: 0.35
+    - _ce_Fres_Intensity: 1.25
+    - _ce_Fres_Max: 0.14
+    - _ce_Fres_Min: 0
+    - _ce_UseCell: 1
+    - _ce_UvChannel: 0
+    - _cot_Mask: 0.311
+    - _cot_Roughness: 0.74
+    - _ds_InvertRange: 0
+    - _ds_Position: 0
+    - _ds_Size: 1
+    - _ds_Thinkness: 0
+    - _ds_UseDust: 0
+    - _dt_InvertRange: 0
+    - _dt_Position: 1
+    - _dt_Size: 85.4
+    - _dt_Thinkness: 0
+    - _dt_UseDirty: 0
+    - _fo_Fresnel_Max: 0.94
+    - _fo_Fresnel_Min: 0
+    - _fo_Fresnel_Power: 1.45
+    - _pt_Fresnel_Max: 0.14
+    - _pt_Fresnel_Min: 0
+    - _pt_Fresnel_Power: 1.25
+    - _ref_Fresnel_Max: 0.79
+    - _ref_Fresnel_Min: 0.27
+    - _ref_Fresnel_Power: 0
+    - _ref_Metallic: 0
+    - _ref_Roughness: 1
+    m_Colors:
+    - _ce_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ce_FlakeRange: {r: 0, g: 2.34, b: 0, a: 0}
+    - _cot_SpecularColor: {r: 0.16299999, g: 0.16299999, b: 0.16299999, a: 0}
+    - _ds_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ds_Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _ds_MaskRange: {r: 0.18, g: 1.58, b: 0, a: 0}
+    - _ds_Range: {r: 0, g: 1, b: 0, a: 0}
+    - _ds_SpaceLimite: {r: 0, g: 1, b: 0, a: 0}
+    - _dt_Color: {r: 0.3018868, g: 0.27005157, b: 0.23780705, a: 1}
+    - _dt_Direction: {r: 0, g: 0, b: 10, a: 0}
+    - _dt_MaskRange: {r: 0.41, g: 1, b: 0, a: 0}
+    - _dt_Range: {r: 0.07, g: 0.92, b: 0, a: 0}
+    - _dt_SpaceLimite: {r: 0.42, g: 0.8, b: 0, a: 0}
+    - _fo_Color: {r: 0.66, g: 0, b: 0, a: 1}
+    - _pt_Color: {r: 0.553, g: 0, b: 0, a: 1}
+    - _pt_FresnelColor: {r: 0.34, g: 0.18326001, b: 0.18326001, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

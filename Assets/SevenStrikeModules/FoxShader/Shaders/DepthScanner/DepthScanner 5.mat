@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3985780260331291622
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DepthScanner 5
+  m_Shader: {fileID: -6465566751694194690, guid: ff5560f20e7e54f4384134a5b58882b0,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _LN_SPACE_OBJECT
+  - _SC_SPACE_OBJECT
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
+  - SHADOWCASTER
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _CastShadows: 0
+    - _Cull: 0
+    - _DstBlend: 10
+    - _LN_SPACE: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _SC_SPACE: 1
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
+    - _cc_Brightness: 1
+    - _cc_Contrast: 1
+    - _cc_Saturation: 1
+    - _dp_Intensity: 5.3
+    - _eg_Intensity: 417.35
+    - _fa_Intensity: 4.36
+    - _ln_Alpha: 0.212
+    - _ln_Height: 0
+    - _ln_Intensity: 12.35
+    - _ln_Tilling: 1
+    - _ln_Width: 1
+    - _sc_BaseAlpha: 0.186
+    - _sc_Count: 2
+    - _sc_Speed: 0.5
+    - _sc_UseScanner: 0
+    m_Colors:
+    - _dp_Range: {r: 0, g: 0.05, b: 0, a: 0}
+    - _eg_Color: {r: 0.4007697, g: 1, b: 0.043137252, a: 1}
+    - _eg_Range: {r: 0.995, g: 1, b: 0, a: 0}
+    - _fa_Color: {r: 0, g: 0, b: 0, a: 1}
+    - _fa_Range: {r: 0, g: 5, b: 0, a: 0}
+    - _ln_Color: {r: 0.3864534, g: 1, b: 0, a: 1}
+    - _ln_Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _ln_Movement: {r: 0, g: 0, b: 0, a: 0}
+    - _sc_Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _sc_Range: {r: 0.5, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
