@@ -198,7 +198,7 @@ Material:
     - _UsePureMode: 0
     - _UseScanner: 0
     - _UseSurfaceFaders: 0
-    - _UseWorldScanner: 1
+    - _UseWorldScanner: 0
     - _UvChannel: 0
     - _WorkflowMode: 1
     - _ZTest: 4

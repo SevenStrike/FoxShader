@@ -113,7 +113,7 @@ Material:
     - _st_Height: 0.23
     - _st_NoiseSize: 321.56
     - _st_Offset: 120
-    - _st_UseStarts: 1
+    - _st_UseStarts: 0
     - _sun_Size: 1.7
     - _sun_Smooth: 2.5
     m_Colors:
@@ -122,7 +122,7 @@ Material:
     - _SkyColor: {r: 0.47060302, g: 0.60247386, b: 0.851, a: 0}
     - _SunDirection: {r: 0.89, g: 0.48, b: 0.08, a: 0}
     - _gr_Color_End: {r: 1, g: 1, b: 1, a: 0}
-    - _gr_Color_Start: {r: 0.764151, g: 0.5738529, b: 0.28475437, a: 0}
+    - _gr_Color_Start: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 0}
     - _gr_Range: {r: -1.03, g: 0.61, b: 0, a: 0}
     - _hr_Color: {r: 1, g: 1, b: 1, a: 1}
     - _st_Color: {r: 1, g: 0.9293519, b: 0.76862746, a: 0}

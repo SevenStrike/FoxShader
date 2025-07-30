@@ -39,7 +39,7 @@ Material:
     RenderType: Opaque
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
+  m_LockedProperties: _ref_Fresnel_Power
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 5, y: 5}
         m_Offset: {x: 0, y: 0}
     - _ds_TextureMask:
-        m_Texture: {fileID: 2800000, guid: 2ce6498c629a36646bde10443f814dbd, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _dt_TextureMask:
@@ -103,18 +103,18 @@ Material:
     - _ce_Fres_Min: 0
     - _ce_UseCell: 1
     - _ce_UvChannel: 0
-    - _cot_Mask: 0.534
+    - _cot_Mask: 0.311
     - _cot_Roughness: 0.74
     - _ds_InvertRange: 0
-    - _ds_Position: 1
+    - _ds_Position: 0
     - _ds_Size: 1
-    - _ds_Thinkness: 0.01
-    - _ds_UseDust: 1
+    - _ds_Thinkness: 0
+    - _ds_UseDust: 0
     - _dt_InvertRange: 0
     - _dt_Position: 1
     - _dt_Size: 85.4
     - _dt_Thinkness: 0
-    - _dt_UseDirty: 1
+    - _dt_UseDirty: 0
     - _fo_Fresnel_Max: 0.94
     - _fo_Fresnel_Min: 0
     - _fo_Fresnel_Power: 1.45
@@ -129,10 +129,10 @@ Material:
     m_Colors:
     - _ce_Color: {r: 1, g: 1, b: 1, a: 1}
     - _ce_FlakeRange: {r: 0, g: 2.34, b: 0, a: 0}
-    - _cot_SpecularColor: {r: 0.461, g: 0.461, b: 0.461, a: 0}
-    - _ds_Color: {r: 1, g: 0, b: 0, a: 1}
-    - _ds_Direction: {r: 0, g: 0, b: 1, a: 0}
-    - _ds_MaskRange: {r: 0, g: 1, b: 0, a: 0}
+    - _cot_SpecularColor: {r: 0.16299999, g: 0.16299999, b: 0.16299999, a: 0}
+    - _ds_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ds_Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _ds_MaskRange: {r: 0.18, g: 1.58, b: 0, a: 0}
     - _ds_Range: {r: 0, g: 1, b: 0, a: 0}
     - _ds_SpaceLimite: {r: 0, g: 1, b: 0, a: 0}
     - _dt_Color: {r: 0.3018868, g: 0.27005157, b: 0.23780705, a: 1}
@@ -140,8 +140,8 @@ Material:
     - _dt_MaskRange: {r: 0.41, g: 1, b: 0, a: 0}
     - _dt_Range: {r: 0.07, g: 0.92, b: 0, a: 0}
     - _dt_SpaceLimite: {r: 0.42, g: 0.8, b: 0, a: 0}
-    - _fo_Color: {r: 0.8301887, g: 0.80104905, b: 0.76543397, a: 1}
-    - _pt_Color: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 1}
-    - _pt_FresnelColor: {r: 0.84400004, g: 0.8201269, b: 0.76044405, a: 1}
+    - _fo_Color: {r: 0.66, g: 0, b: 0, a: 1}
+    - _pt_Color: {r: 0.553, g: 0, b: 0, a: 1}
+    - _pt_FresnelColor: {r: 0.34, g: 0.18326001, b: 0.18326001, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
