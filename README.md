@@ -19,6 +19,44 @@
 
 ## 💡 深度扫描 - fs_DepthScanner
 
-适用于贴花投影到表面的着色器
+适用于在表面之间形成体积边缘探测的着色器
 
 ![s](Docs/fs_DepthScanner.png)
+
+## 🏝 虚拟深度雾效 - fs_FakeFog
+
+适用于模拟场景深度雾气的着色器
+
+![s](Docs/fs_FakeFog_0.png)
+
+![s](Docs/fs_FakeFog_1.png)
+
+![s](Docs/fs_FakeFog_2.png)
+
+![s](Docs/fs_FakeFog_3.gif)
+
+## ⛰ 视差空间 - fs_FakeInterior
+
+适用于使用最佳性能的多面贴图来模拟深度空间的着色器
+
+![s](Docs/fs_FakeInterior_0.png)
+
+![s](Docs/fs_FakeInterior_1.png)
+
+![s](Docs/fs_FakeInterior_2.gif)
+
+## 🧿 虚拟流动贴图 - fs_FlowMap
+
+适用于模拟贴图流动感的着色器
+
+![s](Docs/fs_FlowMap_0.gif)
+
+![s](Docs/fs_FlowMap_1.gif)
+
+## ⚙️ 模拟玻璃 - fs_Glass
+
+适用于模拟折射玻璃质感的着色器
+
+![s](Docs/fs_Glass_0.gif)
+
+![s](Docs/fs_Glass_1.gif)
