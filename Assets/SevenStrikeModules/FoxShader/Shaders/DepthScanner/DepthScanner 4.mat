@@ -91,7 +91,7 @@ Material:
     m_Colors:
     - _dp_Range: {r: 0, g: 0.05, b: 0, a: 0}
     - _eg_Color: {r: 1, g: 0.043000042, b: 0.043000042, a: 1}
-    - _eg_Range: {r: 0.995, g: 1, b: 0, a: 0}
+    - _eg_Range: {r: 0.92, g: 1.1, b: 0, a: 0}
     - _fa_Color: {r: 0, g: 0, b: 0, a: 1}
     - _fa_Range: {r: 0, g: 5, b: 0, a: 0}
     - _ln_Color: {r: 1, g: 0, b: 0, a: 1}

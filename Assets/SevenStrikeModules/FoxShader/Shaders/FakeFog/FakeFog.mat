@@ -60,12 +60,12 @@ Material:
     - _cc_Brightness: 0.75
     - _cc_Contrast: 1.59
     - _cc_Saturation: 1
-    - _fo_Fader: 23.33
+    - _fo_Fader: 11.19
     m_Colors:
     - _Color: {r: 1, g: 0.8107627, b: 0.681, a: 0}
     - _Vector2: {r: 0, g: 1, b: 0, a: 0}
-    - _fo_Color: {r: 1, g: 1, b: 1, a: 1}
-    - _fo_Range: {r: 0, g: 1, b: 0, a: 0}
+    - _fo_Color: {r: 0.9433962, g: 0.78353, b: 0.7028302, a: 1}
+    - _fo_Range: {r: 0, g: 0.85, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1170855073875956872
