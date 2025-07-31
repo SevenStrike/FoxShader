@@ -57,10 +57,10 @@ Material:
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
-    - _cc_Brightness: 0.75
-    - _cc_Contrast: 1.59
+    - _cc_Brightness: 1
+    - _cc_Contrast: 1
     - _cc_Saturation: 1
-    - _fo_Fader: 11.19
+    - _fo_Fader: 65.9
     m_Colors:
     - _Color: {r: 1, g: 0.8107627, b: 0.681, a: 0}
     - _Vector2: {r: 0, g: 1, b: 0, a: 0}
