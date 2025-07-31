@@ -113,29 +113,29 @@ Material:
     - _fs_PatternSize: 60
     - _fs_Position: 0
     - _fs_UsePattern: 0
-    - _fs_Width: 0.1
+    - _fs_Width: 0.56
     - _gr_Alpha: 1
     - _gr_GradientColor: 0
     - _gr_GradientOpacity: 1
     - _gr_Intensity: 1
     - _gr_Position: 0
-    - _gr_UseGradient: 1
+    - _gr_UseGradient: 0
     - _nor_Intensity: 0.65
-    - _pu_Alpha: 0
+    - _pu_Alpha: 0.4
     - _pu_EndColorIntensity: 1.13
     - _pu_InvertAlpha: 0
     - _pu_Position: 1
     - _pu_StartColorIntensity: 1
     - _rv_RiverRoughness: 0.37
     - _sc_Alpha: 1
-    - _sc_Intensity: 150.8
-    - _sc_PatternSize: 399.91
-    - _sc_Position: 2.41
+    - _sc_Intensity: 100
+    - _sc_PatternSize: 113.04
+    - _sc_Position: 1.48
     - _sc_ScreenSpacePattern: 0
     - _sc_UseScan: 1
-    - _ss_ColorIntensity: 14.8
-    - _ss_PatternSize: 6.64
-    - _ss_Radius: 0
+    - _ss_ColorIntensity: 86.21
+    - _ss_PatternSize: 3.37
+    - _ss_Radius: 11.94
     - _ss_SupportEmissive: 1
     - _ss_UseCustomMask: 0
     - _ss_UseWorldScanner: 1
@@ -146,32 +146,32 @@ Material:
     - _st_EdgeStart: 5.11
     - _st_Intensity: 1
     - _st_OverlayTexture: 0
-    - _st_Radius: 5.81
+    - _st_Radius: 2.84
     - _st_Size: 1
     m_Colors:
     - _MapColor: {r: 1, g: 1, b: 1, a: 1}
-    - _fs_Color: {r: 0.4669811, g: 0.7300245, b: 1, a: 1}
+    - _fs_Color: {r: 0.26999998, g: 0.7769918, b: 1, a: 1}
     - _fs_PositionRemap: {r: 0.21, g: -0.34, b: 0, a: 0}
-    - _fs_Range: {r: 0.12, g: 0.65, b: 0, a: 0}
+    - _fs_Range: {r: 0.28, g: 0.63, b: 0, a: 0}
     - _gr_Direction: {r: 0, g: 1, b: 0, a: 0}
     - _gr_EndColor: {r: 0, g: 0.7199998, b: 1, a: 1}
     - _gr_Range: {r: 0, g: 0.4, b: 0, a: 0}
     - _gr_StartColor: {r: 1, g: 0, b: 0, a: 1}
-    - _pu_EndColor: {r: 1, g: 0.44711122, b: 0.043000042, a: 1}
+    - _pu_EndColor: {r: 0.9716981, g: 0.6127602, b: 0.23375754, a: 1}
     - _pu_PositionRange: {r: 3.07, g: 1.88, b: 0, a: 0}
     - _pu_Range: {r: 0, g: 0.65, b: 0, a: 0}
-    - _pu_StartColor: {r: 0, g: 0, b: 0, a: 1}
+    - _pu_StartColor: {r: 0, g: 0.2627451, b: 0.19753969, a: 1}
     - _rv_RiverColor: {r: 0.13171197, g: 0.47871077, b: 0.686, a: 1}
-    - _sc_Color: {r: 0, g: 0.35719442, b: 1, a: 1}
+    - _sc_Color: {r: 1, g: 1, b: 1, a: 1}
     - _sc_Direction: {r: 0.022, g: 0.08, b: 0, a: 0}
     - _sc_Range: {r: 0, g: 1, b: 0, a: 0}
-    - _ss_Color: {r: 0, g: 0.10946172, b: 1, a: 1}
+    - _ss_Color: {r: 1, g: 0.17502466, b: 0, a: 1}
     - _ss_PatternRange: {r: 0, g: 2.08, b: 0, a: 0}
-    - _ss_Position: {r: 0, g: 0, b: 0, a: 0}
+    - _ss_Position: {r: 12, g: 0.47, b: -12, a: 0}
     - _st_Color: {r: 1, g: 1, b: 1, a: 1}
     - _st_EdgeColor: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
     - _st_EdgeRange: {r: 0.48, g: 0.85, b: 0, a: 0}
-    - _st_Position: {r: -17.68, g: 0, b: -15.24, a: 0}
+    - _st_Position: {r: 12, g: 0.47, b: -12, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &6443331434442011864
