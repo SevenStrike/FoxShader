@@ -84,7 +84,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _GlassTexture:
-        m_Texture: {fileID: 2800000, guid: 9944731409f986f4694e3714489df12e, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _InteriorPlane:
@@ -153,8 +153,8 @@ Material:
     - _InnerScale: 1
     - _InteriorPlaneDepth: 0
     - _LightSteps: 10
-    - _Metallic: 0
-    - _MinLightValue: 0.05
+    - _Metallic: 1
+    - _MinLightValue: 1.78
     - _OpaqueCullMode: 2
     - _OuterWallMetallic: 0
     - _OuterWallSmoothness: 1
@@ -166,8 +166,8 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _Seed: 1337
-    - _Smoothness: 1
+    - _Seed: 1447
+    - _Smoothness: 0
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
@@ -198,16 +198,16 @@ Material:
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
-    - _GlassColor: {r: 1, g: 1, b: 1, a: 0.36862746}
+    - _GlassColor: {r: 0, g: 0, b: 0, a: 0.36862746}
     - _GlassTexture_TO: {r: 1, g: 1, b: 0, a: 0}
     - _InteriorPlaneFlipbookSize: {r: 1, g: 1, b: 0, a: 0}
-    - _LightRemap: {r: 1.98, g: 5, b: 0, a: 0}
+    - _LightRemap: {r: 1, g: 1, b: 0, a: 0}
     - _LightmapColor: {r: 1, g: 1, b: 1, a: 1}
     - _LightmapColorA: {r: 0.645, g: 0.645, b: 0.645, a: 1}
-    - _LightmapColorB: {r: 0.496, g: 0.43648, b: 0.36952, a: 1}
+    - _LightmapColorB: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
     - _OuterWallColor: {r: 0.20754716, g: 0.20754716, b: 0.20754716, a: 1}
     - _OuterWall_TO: {r: 0, g: 0, b: 0, a: 0}
     - _TextureFlipbookSize: {r: 1, g: 1, b: 0, a: 0}
-    - _TilingOffset: {r: 1, g: 1, b: 0, a: 0}
+    - _TilingOffset: {r: 2, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

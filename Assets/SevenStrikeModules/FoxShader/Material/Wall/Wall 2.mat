@@ -183,9 +183,9 @@ Material:
     - _ble_Roughness: 0
     - _ble_UseTextureMask: 0
     - _ble_UvChannel: 0
-    - _cc_Brightness: 1
-    - _cc_Contrast: 1
-    - _cc_Saturation: 1
+    - _cc_Brightness: 0.54
+    - _cc_Contrast: 1.55
+    - _cc_Saturation: 0.328
     - _cc_Saturations: 1
     - _dis_Intensity: 0
     - _dis_fw_FlowEnable: 0

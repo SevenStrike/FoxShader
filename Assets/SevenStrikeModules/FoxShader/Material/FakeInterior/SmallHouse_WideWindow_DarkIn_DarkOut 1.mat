@@ -153,7 +153,7 @@ Material:
     - _InnerScale: 1
     - _InteriorPlaneDepth: 0
     - _LightSteps: 7.9
-    - _Metallic: 0
+    - _Metallic: 0.621
     - _MinLightValue: 0.05
     - _OpaqueCullMode: 2
     - _OuterWallMetallic: 0

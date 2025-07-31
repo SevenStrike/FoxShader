@@ -173,7 +173,7 @@ Material:
     - _SrcBlend: 1
     - _Surface: 0
     - _TextureRotate: 0
-    - _TextureScale: 2
+    - _TextureScale: 1
     - _UseBlender: 0
     - _UseCustomMask: 0
     - _UseDirty: 0
@@ -270,7 +270,7 @@ Material:
     - _ws_Radius: 5
     - _ws_Width: 5
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.88699996, g: 0.88699996, b: 0.88699996, a: 1}
     - _E_Color: {r: 0, g: 0, b: 0, a: 1}
     - _ble_Color: {r: 1, g: 1, b: 1, a: 1}
     - _ble_Direction: {r: 0, g: 1, b: 0, a: 0}

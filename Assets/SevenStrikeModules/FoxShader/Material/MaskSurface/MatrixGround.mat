@@ -64,13 +64,13 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     - _bs_Alpha: 1
-    - _bs_Intensity: 22.93
+    - _bs_Intensity: 909.3
     - _bs_MoveRandom_X: 0
     - _bs_MoveRandom_Y: 0
     - _bs_Move_X: 0
     - _bs_Move_Y: 0
     - _bs_Rotate: 0
-    - _bs_SizeMultiply: 5
+    - _bs_SizeMultiply: 4.9
     - _mk_Alpha: 0.993
     - _mk_MaskIntensity: 1
     - _mk_MoveRandom_X: 0
@@ -83,11 +83,11 @@ Material:
     - _sa_Alpha: 1
     m_Colors:
     - _bs_Center: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _bs_Color: {r: 0.60096157, g: 1, b: 0, a: 1}
+    - _bs_Color: {r: 1, g: 0.24787033, b: 0, a: 1}
     - _bs_Size: {r: 1, g: 1, b: 0, a: 0}
     - _mk_Center: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _mk_Range: {r: 0, g: 0.08, b: 0, a: 0}
-    - _sa_Range: {r: 0, g: 1, b: 0, a: 0}
+    - _sa_Range: {r: 0, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &7033215520082466965

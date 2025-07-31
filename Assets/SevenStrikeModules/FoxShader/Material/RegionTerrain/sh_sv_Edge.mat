@@ -13,7 +13,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _GR_MODE_WORLD
+  - _GR_MODE_OBJECT
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 2
@@ -58,7 +58,7 @@ Material:
     - _CastShadows: 1
     - _Cull: 2
     - _DstBlend: 10
-    - _GR_MODE: 0
+    - _GR_MODE: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
@@ -72,15 +72,15 @@ Material:
     - _cc_Contrast: 1
     - _cc_Saturation: 1
     - _gr_GradientOpacity: 1
-    - _gr_Intensity: 1
-    - _gr_Position: 0
+    - _gr_Intensity: 29.22
+    - _gr_Position: 1.92
     - _gr_UseGradient: 1
     m_Colors:
     - _ba_MainColor: {r: 1, g: 1, b: 1, a: 1}
-    - _gr_Direction: {r: 0, g: 1, b: 0, a: 0}
-    - _gr_EndColor: {r: 0.348, g: 0.348, b: 0.348, a: 1}
-    - _gr_Range: {r: 0, g: 0.39, b: 0, a: 0}
-    - _gr_StartColor: {r: 0.525, g: 0.525, b: 0.525, a: 1}
+    - _gr_Direction: {r: 1, g: -0.34, b: 0, a: 0}
+    - _gr_EndColor: {r: 0.3537736, g: 0.62804645, b: 1, a: 1}
+    - _gr_Range: {r: 0, g: 2.8, b: 0, a: 0}
+    - _gr_StartColor: {r: 0, g: 0.30069733, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1117479849192962479

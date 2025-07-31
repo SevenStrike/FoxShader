@@ -78,8 +78,8 @@ Material:
     m_Colors:
     - _ba_MainColor: {r: 1, g: 1, b: 1, a: 0}
     - _gr_Direction: {r: 0, g: 1, b: 0, a: 0}
-    - _gr_EndColor: {r: 0.50381, g: 0.56355155, b: 0.607, a: 1}
-    - _gr_Range: {r: -0.5, g: 2.99, b: 0, a: 0}
+    - _gr_EndColor: {r: 0.6603774, g: 0.6603774, b: 0.6603774, a: 1}
+    - _gr_Range: {r: -0.2, g: 0.99, b: 0, a: 0}
     - _gr_StartColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
