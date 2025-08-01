@@ -25,11 +25,27 @@
 
 ![s](Docs/fs_CarPainter2.png)
 
+## 🎯 全息视差 - fs_HoloSight
+
+适用于视差视觉的着色器（例如光电准心以及瞄准镜）
+
+![s](Docs/fs_HoloSight_Reflex.gif)
+
+![s](Docs/fs_HoloSight_Scope.gif)
+
 ## 🌋 地形 - fs_Map
 
 适用于模拟地形质感表面的着色器
 
 ![s](Docs/fs_Map.png)
+
+## 🩹 遮罩透明贴片 - fs_MaskOpacity
+
+适用于在物体表面贴片的遮罩形态的着色器（例如水洼、污迹等）
+
+![s](Docs/fs_MaskOpacity_0.png)
+
+![s](Docs/fs_MaskOpacity_1.png)
 
 ## 🚀 贴花 - fs_Decal
 
