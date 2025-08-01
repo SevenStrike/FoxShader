@@ -105,7 +105,7 @@ Material:
     - _gr_Overlay: 1
     - _gr_UseGradient: 1
     - _hr_Direction: 0.344
-    - _hr_Intensity: 1
+    - _hr_Intensity: 2.34
     - _hr_Rotate: 0
     - _st_Alpha: 26.7
     - _st_AutoRotate: 1
