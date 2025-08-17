@@ -1,4 +1,8 @@
 ## XShader 高级着色器包
+[![license](https://img.shields.io/badge/license-AGPLv3.0-red.svg)](https://gitee.com/SevenStrike/XTween/blob/main/LICENSE)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/SevenStrike/XShader)](https://github.com/SevenStrike/XShader/releases/latest)
+[![supported](https://img.shields.io/badge/Supported-Unity-success.svg)](https://unity.com/)
+
 ### 概述
 ------------
 这是一套基于 Unity ShaderGraph 的深度可定制、模块化材质着色器资源包。所有功能均拆分为独立的 SubGraph 与 Master Graph，开发者可以按需拖入项目、自由拼装，快速实现从车漆、玻璃、建筑内饰到科幻扫描、流动噪波等 30 + 常见视觉效果
