@@ -1,5 +1,5 @@
 ## XShader 高级着色器包
-[![license](https://img.shields.io/badge/license-AGPLv3.0-red.svg)](https://gitee.com/SevenStrike/XShader/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-AGPLv3.0-red.svg)](https://github.com/SevenStrike/XShader/blob/main/LICENSE)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/SevenStrike/XShader)](https://github.com/SevenStrike/XShader/releases/latest)
 [![supported](https://img.shields.io/badge/Supported-Unity-success.svg)](https://unity.com/)
 
